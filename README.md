@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Alex! </h1>
+
+<h2>PCB Design Projects:</h2>
+
+- <b>KICad:</b>
+  - [12v-5v dc/dc Converter](https://github.com/AlexRojasx/5v)
+
+
+<h2> Connect with me:</h2>
+
 
 <!--
 **AlexRojasx/AlexRojasx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
