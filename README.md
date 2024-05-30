@@ -3,7 +3,7 @@
 <h2>PCB Design Projects:</h2>
 
 - <b>KICad:</b>
-  - [12v-5v dc/dc Converter](https://github.com/AlexRojasx/5v)
+  - [5v DC/DC Converter](https://github.com/AlexRojasx/DC-5v-Converter)
 
 
 <h2> Connect with me:</h2>
