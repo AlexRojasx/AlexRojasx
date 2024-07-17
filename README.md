@@ -7,8 +7,8 @@
   - [STM32 Microcontroller board](https://github.com/AlexRojasx/STM32-Design_1)
   - [FSAE mock TSAL board](https://github.com/AlexRojasx/Mock-TSAL)
 
-- <b>Documents written:</b>
-  - [Standards for FRC wiring Team 1294](https://github.com/AlexRojasx/DC-5v-Converter)
+ <h2>Documents written:</h2>
+- [Standards for FRC wiring Team 1294](https://github.com/AlexRojasx/DC-5v-Converter)
 <h2> Connect with me:</h2>
 
 
