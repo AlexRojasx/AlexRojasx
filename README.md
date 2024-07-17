@@ -10,7 +10,7 @@
 
  <h2>Documents written:</h2>
  
-- [Standards for FRC wiring Team 1294](https://1drv.ms/w/c/87396ac3da71ac8c/EX1RkwUzsA9CgGwjJMRt7g0BlDgX9U4JhFOw3TrWYP0aUw?e=6nU7Un)
+- [Standards for FRC wiring Team 1294 (unfinished)](https://1drv.ms/w/c/87396ac3da71ac8c/EX1RkwUzsA9CgGwjJMRt7g0BlDgX9U4JhFOw3TrWYP0aUw?e=6nU7Un)
 <h2> Connect with me:</h2>
 
 
